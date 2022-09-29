@@ -1,7 +1,7 @@
 # Aleksandra Desens
 ### Computer Engineering Student at UCSD
 
-> *"We cannot solve our problems with the same thinking we used when we created them." *
+> *"We cannot solve our problems with the same thinking we used when we created them."*
 > ***Albert Einstein***
 
 

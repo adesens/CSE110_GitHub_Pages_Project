@@ -13,11 +13,15 @@ int main() {
 }
 ```
 
-This page can be found in this [GitHub Repository](https://github.com/adesens/CSE110_GitHub_Pages_Project.git)
+Meet my spirit animal - Zoey Bear
+![text](IMG_0065_small_thespiritanimal.jpg)
 
-![text](IMG_0064.jpg "Zoey Bear")
+Some more pictures of Zoey
+[Zoey The Top Model](IMG_0064_small_thetopmodel.jpg)
+[Zoey The Sprinkler Digger](IMG_7438_small_thesprinklerdigger.jpg)
+[Zoey The Guardian of The Neighborhood](IMG_7729_small_theguardianofthenaighbourhood.jpg)
+[Zoey The Drama Queen](IMG_8678_small_thedramaqueen.jpg)
 
-My puppy girl [Zoey](IMG_0064.jpg)
 
 Fruits I like:
 * apples
@@ -40,5 +44,7 @@ Markdown practice:
 - [x] Ordered and Unordered Lists
 - [x] Task lists
 
+
+This page can be found in this [GitHub Repository](https://github.com/adesens/CSE110_GitHub_Pages_Project.git)
 
 Go back to the top [here](#aleksandra-desens)

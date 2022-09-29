@@ -43,15 +43,15 @@ Fruits I like in order of tastiness:
 3. apples
 
 Markdown practice:
-[x] Headings
-[x] Styling text
-[x] Quoting text
-[x] Quoting code
-[x] External Links
-[x] Section links
-[ ] Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
-[x] Ordered and Unordered Lists
-[x] Task lists
+- [x]  Headings
+- [x]  Styling text
+- [x]  Quoting text
+- [x]  Quoting code
+- [x]  External Links
+- [x]  Section links
+- [ ]  Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
+- [x]  Ordered and Unordered Lists
+- [x]  Task lists
 
 <br>
 

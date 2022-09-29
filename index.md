@@ -17,7 +17,7 @@ This page can be found in this [GitHub Repository](https://github.com/adesens/CS
 
 Go back to the top [here](#aleksandra-desens)
 
-My puppy girl [Zoey](IMG_0064.jpg)
+My puppy girl [Zoey](../IMG_0064.jpg)
 
 Fruits I like:
 * apples

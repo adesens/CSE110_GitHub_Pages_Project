@@ -15,7 +15,7 @@ int main() {
 
 This page can be found in this [GitHub Repository](https://github.com/adesens/CSE110_GitHub_Pages_Project.git)
 
-Go back to the top [here](#aleksandra-desens)
+![text](IMG_0064.jpg "Zoey Bear")
 
 My puppy girl [Zoey](IMG_0064.jpg)
 
@@ -39,3 +39,6 @@ Markdown practice:
 - [ ] Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
 - [x] Ordered and Unordered Lists
 - [x] Task lists
+
+
+Go back to the top [here](#aleksandra-desens)

@@ -1,16 +1,12 @@
 # Aleksandra Desens
-### Computer Engineering Student at UCSD
+## Computer Engineering Student at UCSD
 
-<br>
-
-##### Quoting & Styling Text
+### Quoting & Styling Text
 > *"We cannot solve our problems with the same thinking we used when we created them."*
 > ***Albert Einstein***
 
-<br>
-<br>
 
-##### Quoting Code
+### Quoting Code
 Hello World
 ```
 int main() {
@@ -18,10 +14,9 @@ int main() {
     return 0;
 }
 ```
-<br>
-<br>
 
-##### Embedded Pictures & External Links
+
+### Embedded Pictures & External Links
 Meet my spirit animal - Zoey Bear
 
 ![text](IMG_0065_small_thespiritanimal.jpg)
@@ -32,10 +27,8 @@ Some more pictures of Zoey:
 [Zoey The Guardian of The Neighborhood](IMG_7729_small_theguardianofthenaighbourhood.jpg)   
 [Zoey The Drama Queen](IMG_8678_small_thedramaqueen.jpg)
 
-<br>
-<br>
 
-##### Unordered, Ordered & Task Lists
+### Unordered, Ordered & Task Lists
 Fruits I like:
 * apples
 * strawberries
@@ -57,10 +50,8 @@ Markdown practice:
 - [x] Ordered and Unordered Lists
 - [x] Task lists
 
-<br>
-<br>
 
-##### External & Section Links
+### External & Section Links
 This page can be found in this [GitHub Repository](https://github.com/adesens/CSE110_GitHub_Pages_Project.git)
 
 Go back to the top [here](#aleksandra-desens)

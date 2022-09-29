@@ -5,6 +5,7 @@
 > *"We cannot solve our problems with the same thinking we used when we created them."*
 > ***Albert Einstein***
 
+<br>
 
 ### Quoting Code
 Hello World
@@ -15,6 +16,7 @@ int main() {
 }
 ```
 
+<br>
 
 ### Embedded Pictures & External Links
 Meet my spirit animal - Zoey Bear
@@ -27,6 +29,7 @@ Some more pictures of Zoey:
 [Zoey The Guardian of The Neighborhood](IMG_7729_small_theguardianofthenaighbourhood.jpg)   
 [Zoey The Drama Queen](IMG_8678_small_thedramaqueen.jpg)
 
+<br>
 
 ### Unordered, Ordered & Task Lists
 Fruits I like:
@@ -50,6 +53,7 @@ Markdown practice:
 - [x] Ordered and Unordered Lists
 - [x] Task lists
 
+<br>
 
 ### External & Section Links
 This page can be found in this [GitHub Repository](https://github.com/adesens/CSE110_GitHub_Pages_Project.git)
